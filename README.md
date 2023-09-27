@@ -1,2 +1,2 @@
-# My-first-game-
+# Project 1
 My first game 

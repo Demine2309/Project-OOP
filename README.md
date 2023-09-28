@@ -1,2 +1,2 @@
-# Project 1
+# Project OOP
 My first game 

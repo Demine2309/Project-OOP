@@ -88,6 +88,12 @@ public class PlayerMovement : MonoBehaviour
         {
             canJump = true;
         }
+
+        if (collision.gameObject.CompareTag("Head"))
+        {
+            Debug.Log("Collider!");
+            Destroy(collision.transform.parent.gameObject);
+        }
     }
 
     // Hàm đặt thời gian trễ cho việc nhảy lần thứ hai

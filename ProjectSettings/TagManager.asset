@@ -10,6 +10,7 @@ TagManager:
   - Blood
   - Spawner
   - Ground
+  - Head
   layers:
   - Default
   - TransparentFX
